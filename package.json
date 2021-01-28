@@ -1,0 +1,14 @@
+{
+  "name": "gtraining-js-starter-code",
+  "version": "1.0.0",
+  "description": "GTraining JS Starter Code",
+  "main": "script.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "author": "Sahin Katlan",
+  "license": "MIT",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
